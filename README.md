@@ -283,21 +283,9 @@ d:\file encry\
 ├── gui_app.py            # Main GUI application (Rufus-style)
 ├── cli.py                # Command-line interface
 ├── config_manager.py     # Configuration management
-├── test_encryption.py    # Test suite
 ├── launch.bat            # Windows launcher script
 ├── requirements.txt      # Python dependencies
 ├── README.md             # This file
-├── QUICKSTART.md         # Quick start guide
-└── SECURITY_GUIDE.md     # Security best practices
-```
-
-### Running Tests
-```bash
-# Install test dependencies
-pip install pytest pytest-cov
-
-# Run tests (if test suite exists)
-pytest tests/
 ```
 
 ### Contributing
