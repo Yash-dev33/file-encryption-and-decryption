@@ -149,7 +149,6 @@ Secure file operations:
 #### `gui_app.py`
 Graphical user interface:
 - File selection interface
-- Password input with strength indicator
 - Progress tracking
 - Operation logging
 - Multi-threaded processing
